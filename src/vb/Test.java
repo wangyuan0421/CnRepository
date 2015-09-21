@@ -15,7 +15,7 @@ public class Test {
                 String value = (String )  m.get(key);
                 System.out.println(key +":" +value);
          }
-         System.out.println( "--------------------------------------1" );
+         System.out.println( "222--------------------------------------" );
          Properties p = System.getProperties();
         
          for ( Iterator it = p.keySet().iterator(); it.hasNext(); )
